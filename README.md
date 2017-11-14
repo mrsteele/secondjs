@@ -17,7 +17,7 @@ npm i secondjs --save
 If you would like to get started quickly, use the following as an example:
 
 ```js
-const secondjs = require('.')
+const secondjs = require('secondjs')
 
 // get the individual minutes since some other time
 const seconds = 12345
