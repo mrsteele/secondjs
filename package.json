@@ -1,0 +1,32 @@
+{
+  "name": "secondjs",
+  "version": "0.0.1",
+  "description": "A second conversion utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "second",
+    "secondjs",
+    "minute",
+    "hour",
+    "convert",
+    "conversion",
+    "day",
+    "year"
+  ],
+  "author": "Matt Steele <matt@omnionline.us> (http://omnionline.us/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsteele/secondjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrsteele/secondjs/issues"
+  },
+  "homepage": "https://github.com/mrsteele/secondjs#readme",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
