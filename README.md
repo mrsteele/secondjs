@@ -95,11 +95,11 @@ console.log(`${millisecondjs(Date.now())} since 1 January 1970 00:00:00 UTC`)
 Since this is still in "early-access" I wanted to make clear some goals:
 
 * [ ] Add support for months
-** Currently do not support this as it is non static (28-31 days)
+  * Currently do not support this as it is non static (28-31 days)
 * [ ] Add support for years
-** Same as month support
+  * Same as month support
 * [ ] Optimize speed and memory
-** Mainly supporting the caching of values.
+  * Mainly supporting the caching of values.
 
 ### License
 
