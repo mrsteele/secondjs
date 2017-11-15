@@ -72,7 +72,7 @@ const secondjs = require('secondjs')
 console.log(secondjs(10000).round('minutes'))
 // Outputs: 166 minutes
 ```
-The following are arguments are approved:
+The following arguments are allowed:
 * milliseconds
 * seconds
 * minutes
