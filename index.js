@@ -66,7 +66,7 @@ const main = (num = 0) => {
 }
 
 main.millisecondjs = (num = 0) => {
-  return new Secondjs(num / map.millisecond)
+  return new Secondjs(num / map.second)
 }
 
 main.maps = map

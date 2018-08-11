@@ -1,6 +1,6 @@
 {
   "name": "secondjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A second conversion utility",
   "main": "index.js",
   "scripts": {
